@@ -9,6 +9,7 @@ import logging
 
 def main(args):
     print("hello")
+    print("hello2")
 
     woo =      7
     print("""zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz""")
